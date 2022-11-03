@@ -31,6 +31,7 @@ body {
    color: rgb(29, 160, 230);
 }
 .button__two__two {
+   font-size: 1.5625rem;
    border: none;
    background-color: inherit;
    position: absolute;
